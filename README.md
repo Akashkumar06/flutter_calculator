@@ -1,6 +1,10 @@
 # calculator
+#flutter
+#flutterbeginner
 
 A new Flutter project.
+
+![ScreenShot](img/1.PNG) ![ScreenShot](img/2.PNG) ![ScreenShot](img/3.PNG)
 
 ## Getting Started
 
@@ -14,3 +18,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This is the project based on a beautiful package of flutter i.e math_expressions [Here is It](https://pub.dev/packages/math_expressionss), which offers tutorials...
+
+
+
+<h1 style="color:blue;text-align:center;">Thank You :)</h1>
